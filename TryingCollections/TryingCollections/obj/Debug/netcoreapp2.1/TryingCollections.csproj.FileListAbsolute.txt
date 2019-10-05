@@ -1,0 +1,11 @@
+C:\Users\REDMI\RiderProjects\TryingCollections\TryingCollections\bin\Debug\netcoreapp2.1\TryingCollections.deps.json
+C:\Users\REDMI\RiderProjects\TryingCollections\TryingCollections\bin\Debug\netcoreapp2.1\TryingCollections.runtimeconfig.json
+C:\Users\REDMI\RiderProjects\TryingCollections\TryingCollections\bin\Debug\netcoreapp2.1\TryingCollections.runtimeconfig.dev.json
+C:\Users\REDMI\RiderProjects\TryingCollections\TryingCollections\bin\Debug\netcoreapp2.1\TryingCollections.dll
+C:\Users\REDMI\RiderProjects\TryingCollections\TryingCollections\bin\Debug\netcoreapp2.1\TryingCollections.pdb
+C:\Users\REDMI\RiderProjects\TryingCollections\TryingCollections\obj\Debug\netcoreapp2.1\TryingCollections.csprojAssemblyReference.cache
+C:\Users\REDMI\RiderProjects\TryingCollections\TryingCollections\obj\Debug\netcoreapp2.1\TryingCollections.csproj.CoreCompileInputs.cache
+C:\Users\REDMI\RiderProjects\TryingCollections\TryingCollections\obj\Debug\netcoreapp2.1\TryingCollections.AssemblyInfoInputs.cache
+C:\Users\REDMI\RiderProjects\TryingCollections\TryingCollections\obj\Debug\netcoreapp2.1\TryingCollections.AssemblyInfo.cs
+C:\Users\REDMI\RiderProjects\TryingCollections\TryingCollections\obj\Debug\netcoreapp2.1\TryingCollections.dll
+C:\Users\REDMI\RiderProjects\TryingCollections\TryingCollections\obj\Debug\netcoreapp2.1\TryingCollections.pdb
