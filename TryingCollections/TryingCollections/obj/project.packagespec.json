@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\REDMI\\RiderProjects\\TryingCollections\\TryingCollections\\TryingCollections.csproj",
+    "projectUniqueName": "C:\\progects\\sandbox\\TryingCollections\\TryingCollections\\TryingCollections.csproj",
     "projectName": "TryingCollections",
-    "projectPath": "C:\\Users\\REDMI\\RiderProjects\\TryingCollections\\TryingCollections\\TryingCollections.csproj",
-    "outputPath": "C:\\Users\\REDMI\\RiderProjects\\TryingCollections\\TryingCollections\\obj\\",
+    "projectPath": "C:\\progects\\sandbox\\TryingCollections\\TryingCollections\\TryingCollections.csproj",
+    "outputPath": "C:\\progects\\sandbox\\TryingCollections\\TryingCollections\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

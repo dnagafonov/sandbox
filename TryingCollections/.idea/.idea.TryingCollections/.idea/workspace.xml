@@ -1,24 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da1625b1-187f-4dbb-88bd-7264e562bfbd" name="Default Changelist" comment="" />
+    <list default="true" id="da1625b1-187f-4dbb-88bd-7264e562bfbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TryingCollections/Instruments.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TryingCollections/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TryingCollections/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TryingCollections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TryingCollections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/TryingCollections.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/TryingCollections.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/bin/Debug/netcoreapp2.1/TryingCollections.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/bin/Debug/netcoreapp2.1/TryingCollections.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/bin/Debug/netcoreapp2.1/TryingCollections.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/bin/Debug/netcoreapp2.1/TryingCollections.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/TryingCollections.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/TryingCollections.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/TryingCollections.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/TryingCollections.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9613ECD4-910B-4AE6-AC5B-2F1AADA202B9/68/0054089f/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TryingCollections/Instruments.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TryingCollections/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9613ECD4-910B-4AE6-AC5B-2F1AADA202B9/f6/2ab14cfc/Array.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/TryingCollections/instruments.cs" />
+        <option value="$PROJECT_DIR$/TryingCollections/Instruments.cs" />
         <option value="$PROJECT_DIR$/TryingCollections/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1Rn4CVg7AwZ6a0vrg3nryGbiRNb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -68,6 +97,8 @@
       <updated>1570289398513</updated>
       <workItem from="1570289400044" duration="3424000" />
       <workItem from="1570306810208" duration="36000" />
+      <workItem from="1570307599813" duration="6313000" />
+      <workItem from="1570348095541" duration="7052000" />
     </task>
     <servers />
   </component>
@@ -76,6 +107,19 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>

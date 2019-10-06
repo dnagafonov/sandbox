@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\REDMI\\RiderProjects\\TryingCollections\\TryingCollections\\TryingCollections.csproj": {}
+    "C:\\progects\\sandbox\\TryingCollections\\TryingCollections\\TryingCollections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\REDMI\\RiderProjects\\TryingCollections\\TryingCollections\\TryingCollections.csproj": {
+    "C:\\progects\\sandbox\\TryingCollections\\TryingCollections\\TryingCollections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\REDMI\\RiderProjects\\TryingCollections\\TryingCollections\\TryingCollections.csproj",
+        "projectUniqueName": "C:\\progects\\sandbox\\TryingCollections\\TryingCollections\\TryingCollections.csproj",
         "projectName": "TryingCollections",
-        "projectPath": "C:\\Users\\REDMI\\RiderProjects\\TryingCollections\\TryingCollections\\TryingCollections.csproj",
+        "projectPath": "C:\\progects\\sandbox\\TryingCollections\\TryingCollections\\TryingCollections.csproj",
         "packagesPath": "C:\\Users\\REDMI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\REDMI\\RiderProjects\\TryingCollections\\TryingCollections\\obj\\",
+        "outputPath": "C:\\progects\\sandbox\\TryingCollections\\TryingCollections\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
