@@ -36,5 +36,28 @@ namespace TryingCollections
                 }
             }
         }
+
+        public static bool firstLessSecond(int a, int b)
+        {
+            if (a < b && b == a + 1)
+            {
+                return true;
+            }
+            return false;
+        }
+        
+        public static bool firstGreaterSecond(int a, int b)
+        {
+            if (a > b && a == b + 1)
+            {
+                return true;
+            }
+            return false;
+        }
+
+/*        public static bool arithmeticSequence(int number1, int number2)
+        {
+            return 
+        }*/
     }
 }

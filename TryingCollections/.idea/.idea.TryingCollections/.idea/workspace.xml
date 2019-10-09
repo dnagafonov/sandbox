@@ -2,23 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da1625b1-187f-4dbb-88bd-7264e562bfbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TryingCollections/Instruments.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TryingCollections/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TryingCollections/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TryingCollections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TryingCollections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryingCollections/Instruments.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/Instruments.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TryingCollections/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryingCollections/TryingCollections.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/TryingCollections.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TryingCollections/bin/Debug/netcoreapp2.1/TryingCollections.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/bin/Debug/netcoreapp2.1/TryingCollections.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TryingCollections/bin/Debug/netcoreapp2.1/TryingCollections.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/bin/Debug/netcoreapp2.1/TryingCollections.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/Debug/netcoreapp2.1/TryingCollections.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/TryingCollections.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/TryingCollections.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/TryingCollections.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/TryingCollections.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryingCollections/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TryingCollections/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +88,9 @@
       <workItem from="1570289400044" duration="3424000" />
       <workItem from="1570306810208" duration="36000" />
       <workItem from="1570307599813" duration="6313000" />
-      <workItem from="1570348095541" duration="7052000" />
+      <workItem from="1570348095541" duration="8292000" />
+      <workItem from="1570514376610" duration="629000" />
+      <workItem from="1570613438506" duration="5970000" />
     </task>
     <servers />
   </component>
